@@ -1,5 +1,5 @@
 # python_SumAverage
-calculate sum and average
+Here is the program to calculate sum and average
 
 1) input starting number
 2) input last number (include)
